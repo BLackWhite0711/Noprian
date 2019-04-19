@@ -17,11 +17,14 @@ bash setup
 kalo sudah berhasil masuk ketikan perintah
 "help" tanpa tanda kutip dua,
 
+Hubungi
 
+BLackWhite Team
 
-untuk password dan Tutorial lengkapnya kunjungi :
-https://asecc-eror404.blogspot.com/2019/03/tool-hack-fbh-terbaru-2019-di-termux.html?m=1
+whatshapp : 085380067478
 
-Go to my profile facebook : https://m.facebook.com/komaro.bae?ref=bookmarks
+Youtube   : BLackWhite Team
 
-Join Grup HaxID : https://t.me/joinchat/LRcpbhX85FO0GUaI-5O2ZQ
+Instagram : noprian0_0
+
+Facebook  : Noprian

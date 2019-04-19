@@ -1,14 +1,16 @@
 # Cara Menggunakannya
 
-apt update && apt upgrade
+apt update 
 
-apt install git
+apt upgrade
 
-git clone https://github.com/muhammadfathul/FBH
+pkg install git
 
-cd FBH
+git clone https://github.com/BLackWhite0711/Noprian
 
-chmod 777 *
+cd Noprian
+
+chmod +x *
 
 bash setup
 

@@ -14,8 +14,9 @@ bash setup
 
 ./FBH
 
-kalo sudah berhasil masuk ketikan perintah
-"help" tanpa tanda kutip dua,
+Tekan "help"
+
+Login fb
 
 # Kontak yang Hubungi
 

@@ -1,4 +1,4 @@
-# Tutorial
+# Cara Menggunakannya
 
 apt update && apt upgrade
 

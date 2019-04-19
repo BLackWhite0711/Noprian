@@ -8,9 +8,9 @@ purple='\e[1;35m'
 cyan='\e[1;36m'
 red='\e[1;31m'
 
-echo -e $cyan "Installasi FBH"
+echo -e $cyan "Sedang Menginstall"
 sleep 3
-echo -e $red "Loading..."
+echo -e $red "TungguOke..."
 sleep 5
 clear
 apt update && apt upgrade -y

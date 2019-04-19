@@ -18,9 +18,9 @@ Tekan "help"
 
 Login fb
 
-# Kontak yang Hubungi
+# Kontak yang Bisa DiHubungi
 
-BLackWhite Team
+BLackWhite Team (y)
 
 whatshapp : 085380067478
 

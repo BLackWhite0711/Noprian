@@ -1,4 +1,4 @@
-# FBH
+# Tutorial
 
 apt update && apt upgrade
 
@@ -17,7 +17,7 @@ bash setup
 kalo sudah berhasil masuk ketikan perintah
 "help" tanpa tanda kutip dua,
 
-Hubungi
+# Kontak yang Hubungi
 
 BLackWhite Team
 
@@ -28,3 +28,9 @@ Youtube   : BLackWhite Team
 Instagram : noprian0_0
 
 Facebook  : Noprian
+
+Link YT   : https://www.youtube.com/channel/UCJWgAlqKsytbWqYrYhAPWvw
+
+Link FB   : https://www.facebook.com/drak.angle.338
+
+Link IG   : https://www.instagram.com/noprian0_0/

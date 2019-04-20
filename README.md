@@ -38,5 +38,3 @@ Link FB   : https://www.facebook.com/drak.angle.338
 
 Link IG   : https://www.instagram.com/noprian0_0/
 
-
-HackCipta : AsecC|~|eror404
